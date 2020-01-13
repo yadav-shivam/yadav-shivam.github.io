@@ -8,7 +8,9 @@
 
 #### Software Developer
 
-This is Shivam Yadav's website, and this is a bit of copy about him ... That's not giving you a lot of detail, is it? So scroll down and know about him.
+This is Shivam Yadav's website, and this is a bit of copy about him ... That's not giving you a lot of detail, is it? 
+Know him well [here](https://yadav-shivam.github.io).
+
 
 30th April, 1994
 [+91-8802895752](#)
