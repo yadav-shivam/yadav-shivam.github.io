@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-![0.jpg]({{site.baseurl}}/_posts/0.jpg)
+![0.jpg](https://github.com/yadav-shivam/yadav-shivam.github.io/blob/master/_posts/0.jpg)
 
 ## Challenges We Face When Our App Goes Into Million Hands
 
