@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-![0.jpg]({{site.baseurl}}/img/0.jpg)
+![0.jpg](/img/0.jpg)
 
 
 ## Challenges We Face When Our App Goes Into Million Hands
