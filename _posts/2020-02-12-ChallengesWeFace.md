@@ -70,7 +70,7 @@ Start using git if you are not using it till now, proper git management is very 
 
 Is your server scalable enough if large number of users enters into the application? Your server must be prepared for the worst case , it should be ready to accept the load as per the target. In one of my application I get 50 thousands users overnight then the server started to crying at the moment. Ultimately we improved it in the morning by increasing the configurations.
 
-So **always be ready with the quick support plan**, sever needs to be monitored continuously. It should be more secure to avoid attacks and hacks. 
+So **always be ready with the quick support plan**, server needs to be monitored continuously. It should be more secure to avoid attacks and hacks. 
 
 
 Thanks for giving your time to read this article, if you like it then please share it.
